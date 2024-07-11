@@ -1,3 +1,5 @@
+> This is a copy from [Git Graph](https://github.com/mhutchie/vscode-git-graph). I just changed the logo. Thanks to the author [mhutchie](https://github.com/mhutchie).
+
 # Git Graph extension for Visual Studio Code
 
 View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!
